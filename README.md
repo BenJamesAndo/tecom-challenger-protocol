@@ -203,6 +203,11 @@ Titan Security Software Playlist <br><br>
 
 ---
 
+## Extra Resources
+https://github.com/Shifteh-187/TECOM-CHALLENGER-PUSH
+
+---
+
 ## Disclaimer
 
 This is an unofficial, reverse-engineered protocol implementation. Use at your own risk. The author is not affiliated with Tecom or Aritech.
