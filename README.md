@@ -1,7 +1,7 @@
 
 # Tecom Challenger Protocol
 
-Partially reverse-engineered UDP protocol to control Tecom Titan TS0816 Challenger V8 boards. Data captured via the [Titan software.](https://aritech.com.au/titan-3-5-1-build-31-is-now-available/)
+Partially discovered UDP protocol to control Tecom Titan TS0816 Challenger V8 boards. Data captured via the [Titan software.](https://aritech.com.au/titan-3-5-1-build-31-is-now-available/)
 
 ## Overview
 
